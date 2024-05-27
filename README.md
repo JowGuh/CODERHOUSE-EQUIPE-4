@@ -1,4 +1,8 @@
+EQUIPE 4: Jonathan Gustavo Inacio de Lira, Giovanna Figueiredo Soares
+
 Olá Equipe Coder!
+
+
 
 Este código realiza a tarefa de buscar dados de bancos brasileiros a partir de uma API pública e armazená-los em um banco de dados SQLite.
 
