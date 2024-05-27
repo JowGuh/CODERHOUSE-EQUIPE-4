@@ -41,3 +41,7 @@ Para cada banco recebido da API, o código insere os dados nas três tabelas men
 -Salvamento e Fechamento da Conexão
 
 Finalmente, o código salva todas as mudanças feitas no banco de dados e fecha a conexão com o SQLite.
+
+
+![TABELA1](https://github.com/JowGuh/CODERHOUSER-EQUIPE-4/assets/152320761/8eae5ea5-47ba-4f54-8853-b57d55c45538)
+
