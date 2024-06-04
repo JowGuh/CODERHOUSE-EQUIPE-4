@@ -12,6 +12,8 @@ Este código realiza a tarefa de buscar dados de bancos brasileiros a partir de 
 
 O código utiliza duas bibliotecas principais: sqlite3, para manipulação do banco de dados SQLite, e requests, para realizar requisições HTTP.
 
+-Definição da Função Alerta
+
 -Definição da URL da API
 
 É definida a URL da API que fornece informações sobre os bancos brasileiros.
